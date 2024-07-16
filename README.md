@@ -49,12 +49,9 @@
 
 <img alt = "Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SrijaAdhya12&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDDhttp://github-readme-streak-stats.herokuapp.com?user=SrijaAdhya12&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDD" /><br>
                                   
-
  </div>
 </details>
 
-
- 
 
 
 ![line]
