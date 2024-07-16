@@ -6,7 +6,7 @@
 
 <div align="center">
    <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?&font=Montserrat&color=D61491&size=55&width=890&center=true&height=90&lines=Open+Source+Contributor;UI/UX+Designer;GWOC+Contributor;Graphic+Designer;Web+Developer;Graphic Designer;Full-Stack-Developer"/>
+   <img src="https://readme-typing-svg.herokuapp.com?&font=Montserrat&color=D61491&size=55&width=890&center=true&height=90&lines=Open+Source+Contributor;UI/UX+Designer;GWOC+Contributor;Graphic+Designer;Web+Developer;Graphic+Designer;Full-Stack-Developer"/>
     </p>
 </div> 
 
