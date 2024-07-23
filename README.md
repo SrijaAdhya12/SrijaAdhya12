@@ -56,7 +56,7 @@
 
 ![line]
 <h3 align="center"> Show some ❤️ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> and 🍴 some of the <a href="https://github.com/SrijaAdhya12?tab=repositories">repositories!</a></h3>
-<h4 align="center"> Find me on <a href="https://www.linkedin.com/in/srija-adhya/">LinkedIn</a>. Feel free to <a href="mailto:pritamkundu771@gmail.com">mail</a> me here.</h4>
+<h4 align="center"> Find me on <a href="https://www.linkedin.com/in/srija-adhya/">LinkedIn</a>. Feel free to <a href="mailto:srijaadhya.11sc.2020@gmail.com">mail</a> me here.</h4>
 
 <!-- Links -->
 
