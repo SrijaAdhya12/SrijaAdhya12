@@ -15,7 +15,7 @@
 ### Hi there I'm Srija 🚀
 
 -   🎓 I'm currently in **3rd** year pursuing my Bachelors in Computer Science & Technology from **UEMK**
--   👩‍💻 Python | Java | React | Express | JavaScript | Photoshop | MongoDB | Typescript | GraphQL | TailwindCSS | REST | Figma
+-   👩‍💻 Python | Java | React | Express | Node | JavaScript | MongoDB | Typescript | GraphQL | TailwindCSS | REST | Figma | Git | Photoshop
 -   🎯 Enhancing skills in development and UI/UX designing
 -   🖼️ Also have a look at my [Designs](https://www.behance.net/srijaadhya)
 
