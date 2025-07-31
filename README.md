@@ -14,8 +14,8 @@
 
 ### Hi there I'm Srija 🚀
 
--   🎓 Pre-final year Student
--   👩‍💻 Python | Java | React | Express | Node | JavaScript | MongoDB | Typescript | GraphQL | TailwindCSS | REST | Figma | Git | Photoshop
+-   🎓 Final year Student
+-   👩‍💻 Python | Java | AI/ML | React
 -   🎯 Enhancing skills in development and UI/UX designing
 -   🖼️ Also have a look at my [Designs](https://www.behance.net/srijaadhya)
 
